@@ -1,5 +1,4 @@
-
-# creating an inventory management system for a company
+# creating an inventory management system
 
 import os
 import fileinput
