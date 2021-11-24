@@ -1,6 +1,4 @@
-# Riley Oard
-# 11/20/19
-# Final Project
+
 # creating an inventory management system for a company
 
 import os
